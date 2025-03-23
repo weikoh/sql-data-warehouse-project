@@ -15,3 +15,6 @@ This project involves:
 - **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 - **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 - **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+#  Important Links & Tools:
+- [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Lightweight server for hosting your SQL database.
+- [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16): GUI for managing and interacting with databases.
