@@ -18,3 +18,4 @@ This project involves:
 #  Important Links & Tools:
 - [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Lightweight server for hosting your SQL database.
 - [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16): GUI for managing and interacting with databases.
+- [dbForge SQL Complete](https://www.devart.com/dbforge/sql/sqlcomplete/editions.html): Helping with autocomplete and current query execution.
