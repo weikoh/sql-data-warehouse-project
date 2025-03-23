@@ -1,5 +1,5 @@
 # Data Warehouse and Analytics Project
-I created this repository with help of tutorials:
+I created this repository learning with tutorials:
 - [SQL Exploratory Data Analysis (EDA) Project | Full Hands-On Portfolio Project](https://www.youtube.com/watch?v=2jGhQpbzHes)
 - [SQL Data Analyst Portfolio Project | Like I Do in My Real Projects](https://www.youtube.com/watch?v=6cJ5Ji8zSDg)
 
